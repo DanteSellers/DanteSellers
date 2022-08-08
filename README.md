@@ -7,8 +7,9 @@
 
 # Welcome to my Profile
 
+
 ## - :blue_book: About Me:
-🚀 I am a Software Engineer located in the United States 🇺🇸. 
+🚀 I am a Software Engineer located in the United States. 
 
 📊 In my free time I enjoy working on solutions to complex problems.
 
@@ -29,5 +30,5 @@
 
 ---
 
-## :octocat: MY STATS:
+## - :octocat: My stats:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dantesellers&theme=hacker)
