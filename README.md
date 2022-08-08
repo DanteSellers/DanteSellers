@@ -1,7 +1,5 @@
 # Welcome to my Profile
 
--------------------------------------------------
-
 ### - :blue_book: About Me:
 🚀 I am a Software Engineer located in the United States 🇺🇸. 
 
