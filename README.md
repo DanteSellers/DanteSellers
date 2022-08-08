@@ -18,4 +18,4 @@
 ### ![python](python.svg) <img src="https://github.com/DanteSellers/images/blob/main/python.svg" width=60>  <img src="https://github.com/DanteSellers/images/blob/main/ansible.svg" width=60>  <img src="https://github.com/DanteSellers/images/blob/main/azure.svg" width=60> <img src="https://github.com/DanteSellers/images/blob/main/docker.svg" width=60> <img src="https://github.com/DanteSellers/images/blob/main/gitlab.svg" width=60> <img src="https://github.com/DanteSellers/images/blob/main/k8s.svg" width=60> <img src="https://github.com/DanteSellers/images/blob/main/linux.svg" width=60> <img src="https://github.com/DanteSellers/images/blob/main/terraform.svg" width=60>
 
 ## :octocat: MY STATS:
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronmallory&theme=hacker)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dantesellers&theme=hacker)
