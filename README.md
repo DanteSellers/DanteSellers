@@ -27,7 +27,6 @@
 <img src="https://github.com/DanteSellers/images/blob/main/linux.svg" width=50> 
 <img src="https://github.com/DanteSellers/images/blob/main/terraform.svg" width=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" color=white width=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50>
