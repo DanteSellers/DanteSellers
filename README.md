@@ -18,25 +18,25 @@
 ## - 🦾 Skills 🛠️ Tools:
 ### 
 <div>
-<img src="https://github.com/DanteSellers/images/blob/main/python.svg" width=50>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width=50>  
-<img src="https://github.com/DanteSellers/images/blob/main/azure.svg" width=50> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width=50> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=50> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=50> 
-<img src="https://github.com/DanteSellers/images/blob/main/linux.svg" width=50> 
-<img src="https://github.com/DanteSellers/images/blob/main/terraform.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width=50>
+<img src="https://github.com/DanteSellers/images/blob/main/python.svg" width=49>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width=49>  
+<img src="https://github.com/DanteSellers/images/blob/main/azure.svg" width=49> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width=49> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=49> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=49> 
+<img src="https://github.com/DanteSellers/images/blob/main/linux.svg" width=49> 
+<img src="https://github.com/DanteSellers/images/blob/main/terraform.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width=49>
 </div>
 
 ---
