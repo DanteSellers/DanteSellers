@@ -13,6 +13,12 @@
 
 📊 In my free time I enjoy working on solutions to complex problems.
 
+<object data="https://github.com/DanteSellers/images/blob/main/doexpert.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="https://github.com/DanteSellers/images/blob/main/doexpert.pdf">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/DanteSellers/images/blob/main/doexpert.pdf">Download PDF</a>.</p>
+  </embed>
+</object>
+
 <img src="https://github.com/DanteSellers/images/blob/main/doexpert.pdf" width=49>
 ---
 
