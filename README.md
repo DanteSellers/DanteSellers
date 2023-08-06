@@ -13,7 +13,7 @@
 
 📊 In my free time I enjoy working on solutions to complex problems.
 
-<img src="https://github.com/DanteSellers/images/blob/main/doexpert.jpg" width=300>
+<img src="https://github.com/DanteSellers/images/blob/main/doexpert.jpg" width=3000>
 
 ---
 
