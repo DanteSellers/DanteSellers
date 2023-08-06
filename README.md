@@ -26,6 +26,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=49> 
 <img src="https://github.com/DanteSellers/images/blob/main/linux.svg" width=49> 
 <img src="https://github.com/DanteSellers/images/blob/main/terraform.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width=49>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" width=49>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=49>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=49>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=49>
