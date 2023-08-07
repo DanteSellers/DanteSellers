@@ -10,9 +10,9 @@
 
 ## - :blue_book: About Me: 
 <div>
-<img src="https://github.com/DanteSellers/images/blob/main/doexpertbadge.png" width=160> 
-<img src="https://github.com/DanteSellers/images/blob/main/microsoft-certified-azure-administrator-associate.2.png" width=160> 
-<img src="https://github.com/DanteSellers/images/blob/main/hashicorp-certified-terraform-associate-002.png" width=160> 
+  <img src="https://github.com/DanteSellers/images/blob/main/doexpertbadge.png" width=160> 
+  <img src="https://github.com/DanteSellers/images/blob/main/microsoft-certified-azure-administrator-associate.2.png" width=160> 
+  <img src="https://github.com/DanteSellers/images/blob/main/hashicorp-certified-terraform-associate-002.png" width=160> 
 </div>
 
 🚀 I am a Software Engineer located in the United States. 
