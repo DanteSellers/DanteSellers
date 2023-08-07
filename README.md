@@ -10,6 +10,7 @@
 
 ## - :blue_book: About Me:
 <div>
+## - :blue_book: About Me:
 <img src="https://github.com/DanteSellers/images/blob/main/doexpertbadge.png" width=80> 
 <img src="https://github.com/DanteSellers/images/blob/main/microsoft-certified-azure-administrator-associate.2.png" width=80> 
 <img src="https://github.com/DanteSellers/images/blob/main/hashicorp-certified-terraform-associate-002.png" width=80> 
